@@ -1,0 +1,25 @@
+.Head{
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+.carousel .carousel-item {
+    height: 400px;
+  }
+  
+  .carousel-item img {
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 400px;
+  }
+
+  .carousel-item .img-fluid {
+    width:100%;
+    height:100%;
+  }
+
+  .competencia{
+    margin: 10px;
+    background: aqua;
+  }
