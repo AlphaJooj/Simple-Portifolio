@@ -3,6 +3,10 @@
     padding-bottom: 3%;
 }
 
+.textbox{
+  font-size: large;
+}
+
 .carousel .carousel-item {
     height: 400px;
   }
